@@ -148,7 +148,7 @@
                           
 
                              <button name="signup" class="btn btn-primary"><b>Done</b></button><b>or</b>
-                             <a  class="btn btn-danger" href="login.php"><b>Login</b></a>
+                             <a  class="btn btn-danger" href="index.php"><b>Login</b></a>
 
                    </form>
                       <br>
