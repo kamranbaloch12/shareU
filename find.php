@@ -6,7 +6,7 @@
 
       }
       else{
-        header('location:login.php');
+        header('location:index.php');
       }
 
      $user_id = $_SESSION['idd'];
